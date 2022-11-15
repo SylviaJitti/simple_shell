@@ -1,2 +1,1 @@
-# simple_shell
-alx project
+This is a team project done by Sylvia Jitti and Joseph Jatto
